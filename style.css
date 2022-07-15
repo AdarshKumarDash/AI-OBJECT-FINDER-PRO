@@ -1,0 +1,46 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 29px !important;
+    width: 100%;
+    margin: 0;
+}
+
+button {
+    font-size: 20px !important;
+    width: 100px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 19px !important;
+}
+
+#footer {
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgb(173, 165, 165);
+    padding: 10px;
+}
+
+canvas {
+    border: coral;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 5px grey;
+    margin-top: 150px;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+    color: coral;
+    font-size: 20px;
+}
